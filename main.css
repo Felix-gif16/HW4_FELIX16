@@ -1,0 +1,50 @@
+.topcontainer{
+    color: red;
+}
+
+.box {
+    border: 1px solid transparent;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 1px 1px 5px rgb(187, 92, 92);
+}
+
+.counterPara {
+    font-size: 30px;
+}
+
+.icon{
+    font-size:14px;
+    color: red;
+}
+.icons{
+    font-size:14px;
+    color: green;
+}
+.innerBoxPadding{
+    padding-top: 10px;
+    padding-bottom: 70px;
+}
+.inner-box{
+    background-color: rgb(187, 92, 92);
+    color: red;
+    text-align: center;
+    border: 1px transparent;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.side-box {
+    border: 1px solid transparent;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 1px 1px 5px rgb(32, 31, 31);
+}
+.start-container{
+    margin-top: 50px;
+}
